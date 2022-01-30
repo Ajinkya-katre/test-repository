@@ -1,2 +1,3 @@
-# test-repository
-This is Second example
+# My First Repo
+
+it's good to have a knowledge of Github.
